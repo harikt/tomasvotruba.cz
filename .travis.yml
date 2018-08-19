@@ -2,7 +2,7 @@ language: php
 
 php:
     - 7.2
-    - nigtly # 7.3?
+    - nightly # 7.3?
 
 install:
     - composer update
